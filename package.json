@@ -1,4 +1,5 @@
 {
+  "homepage": "https://elvislira.github.io/sorveteria",
   "name": "projeto_sorveteria",
   "version": "0.1.0",
   "private": true,
@@ -9,8 +10,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "next": "14.2.3",
+    "package.json": "^2.0.1",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.3"
+    "react-dom": "^18"
   }
 }
